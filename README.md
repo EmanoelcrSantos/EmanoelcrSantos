@@ -1,4 +1,4 @@
-Olá, me chamo Emanoel
+Olá, me chamo Emanoel, tenho 21 anos e sou estudante de Engenharia de Software, aqui tem alguns projetos pessoais e acadêmicos. :)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Emanoel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
