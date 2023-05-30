@@ -1,4 +1,6 @@
-Olá, me chamo Emanoel, tenho 21 anos e sou estudante de Engenharia de Software, aqui tem alguns projetos pessoais e acadêmicos.
+<h1>Olá! Me chamo Emanoel.</h1>
+<h2>Sou estudante de Engenharia de Software</h2>
+
 
  ##
  
